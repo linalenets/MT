@@ -1,0 +1,5 @@
+function test(int num)
+{
+    return num + 1;
+}
+Print(test(255));
